@@ -13,18 +13,21 @@ Here's a snapshot of the rocket's trajectory:
 ![image](https://github.com/user-attachments/assets/fe8b4256-a490-4c02-b47a-041552334b94)
 
 🚀 How to Run
+
 Clone the repository:
 
 git clone https://github.com/yourusername/my-rocket-simulator.git
+
+
 Install the required packages:
 
 pip install numpy matplotlib scipy
-Run the simulation:
 
+Run the simulation:
 python rocket_simulation.py
 
-📊 Output
-3D Trajectory Plot: Shows the rocket's path with color-coded ascent (cyan) and descent (red).
+📊 Output 3D Trajectory Plot:
+Shows the rocket's path with color-coded ascent (cyan) and descent (red).
 
 Telemetry Graphs:
 Altitude vs. Time
